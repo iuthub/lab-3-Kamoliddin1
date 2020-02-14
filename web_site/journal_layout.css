@@ -20,6 +20,19 @@ html, body {
 	display: table;
 	clear: both;
 }
+.lside {
+    width: 18%;
+    float: left;
+    background: #9ddedead;
+    border: 5px solid #0ec7c7;
+    margin: 10px 0;
+    padding: 5px;
+    
+}
+.rside {
+    width: 80%;
+    float: right;
+}
 .container {
     width: 900px;
     margin-right: auto;
@@ -50,6 +63,6 @@ html, body {
 }
 .content p {
     float: left;
-    width: 75%;
+    width: 65%;
     margin-top: 10px;
 }
